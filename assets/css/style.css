@@ -202,19 +202,9 @@ p {
   width: 30%;
   height: 50%;
   top: 30;
-  right: 800;
+  right: 0;
   left: 200;
   z-index: 2;
-}
-
-.link4{
-  position: absolute;
-  width: 30%;
-  height: 50%;
-  top: 30;
-  right: 0;
-  left: 30;
-  z-index: 3;
 }
 
 .projects img {
@@ -235,6 +225,10 @@ p {
 .p4 {
   background-image: url(../images/placeholder3.jpg);
   background-position: top right 50%;
+}
+
+.p5 {
+  background-image: url(../images/horiseonpreview.png);
 }
 
 .projects div:hover {
